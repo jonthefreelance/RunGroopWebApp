@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jtf\\Documents\\codes\\dotnet\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj": {}
+    "C:\\Users\\Dev\\Source\\Repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jtf\\Documents\\codes\\dotnet\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj": {
+    "C:\\Users\\Dev\\Source\\Repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtf\\Documents\\codes\\dotnet\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Dev\\Source\\Repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
         "projectName": "RunGroopWebApp",
-        "projectPath": "C:\\Users\\jtf\\Documents\\codes\\dotnet\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
-        "packagesPath": "C:\\Users\\jtf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtf\\Documents\\codes\\dotnet\\RunGroopWebApp\\RunGroopWebApp\\obj\\",
+        "projectPath": "C:\\Users\\Dev\\Source\\Repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev\\Source\\Repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jtf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +35,32 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
