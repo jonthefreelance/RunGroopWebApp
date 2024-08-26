@@ -3,44 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\Seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Data\\Seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\20240826133142_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Migrations\\20240826133142_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\20240826132645_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Migrations\\20240826132645_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\migrations\\20240826133142_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\migrations\\20240826133142_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\Enum\\ClubCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Data\\Enum\\ClubCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Models\\Club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Models\\Club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Models\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Models\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Models\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroopWebApp\\Models\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|c:\\users\\dev\\source\\repos\\jonthefreelance\\rungroopwebapp\\rungroopwebapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE1876F-EF9A-4C91-89FD-18885B68C0CF}|RunGroopWebApp\\RunGroopWebApp.csproj|solutionrelative:rungroopwebapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +74,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Race\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T14:53:40.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\RaceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:53:11.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Views\\Club\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "RunGroopWebApp\\Views\\Club\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T14:52:54.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\ClubController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:52:33.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:52:01.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "RunGroopWebApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T14:48:39.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20240826133142_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\20240826133142_InitialCreate.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Migrations\\20240826133142_InitialCreate.cs",
@@ -66,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Seed.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\Seed.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\Seed.cs",
@@ -74,12 +171,11 @@
               "RelativeToolTip": "RunGroopWebApp\\Data\\Seed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:29:05.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T13:29:05.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "20240826132645_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Migrations\\20240826132645_InitialCreate.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Migrations\\20240826132645_InitialCreate.cs",
@@ -88,30 +184,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T13:26:45.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "RunGroopWebApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:07:58.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "RunGroopWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\appsettings.json",
-              "RelativeToolTip": "RunGroopWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T13:05:32.738Z"
             },
             {
               "$type": "Document",
@@ -127,7 +199,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RunGroopWebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:07:58.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RunGroopWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\appsettings.json",
+              "RelativeToolTip": "RunGroopWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T13:05:32.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ClubCategory.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Data\\Enum\\ClubCategory.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Data\\Enum\\ClubCategory.cs",
@@ -139,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Club.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Models\\Club.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Club.cs",
@@ -151,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\AppUser.cs",
@@ -163,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\jonthefreelance\\RunGroopWebApp\\RunGroopWebApp\\Models\\Address.cs",
               "RelativeDocumentMoniker": "RunGroopWebApp\\Models\\Address.cs",
