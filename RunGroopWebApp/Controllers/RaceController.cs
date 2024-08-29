@@ -26,7 +26,7 @@ namespace RunGroopWebApp.Controllers
         }
         //public IActionResult Detail(int id)
         public async Task<IActionResult> Detail(int id)
-        {
+        {               
             //Race race = _context.Races.Include(a => a.Address).FirstOrDefault(c => c.Id == id);
             Race race = await _raceRepository.GetByIdAsync(id);
             return View(race);
