@@ -34,6 +34,11 @@ namespace RunGroopWebApp.Repository
             return await _context.Races.Include(r => r.Address).FirstOrDefaultAsync(r => r.Id.Equals(id));
         }
 
+        public async Task<Race> GetByIdAsyncNoTracking(int id)
+        {
+            return await _context.Races.Include(r => r.Address).AsNoTracking().FirstOrDefaultAsync(r => r.Id.Equals(id));
+        }
+
         public async Task<IEnumerable<Race>> GetRacesByCity(string city)
         {
             return await _context.Races.Where(r => r.Address.City.Contains(city)).ToListAsync();
@@ -47,7 +52,8 @@ namespace RunGroopWebApp.Repository
 
         public bool Update(Race race)
         {
-            throw new NotImplementedException();
+            _context.Update(race);
+            return Save();
         }
     }
 }
