@@ -12,7 +12,7 @@ using RunGroopWebApp.Data;
 namespace RunGroopWebApp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240826133142_InitialCreate")]
+    [Migration("20240902075232_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
