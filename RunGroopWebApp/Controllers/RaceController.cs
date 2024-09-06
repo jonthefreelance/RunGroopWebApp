@@ -5,7 +5,7 @@ using RunGroopWebApp.Interfaces;
 using RunGroopWebApp.Models;
 using RunGroopWebApp.Repository;
 using RunGroopWebApp.Services;
-using RunGroopWebApp.ViewModel;
+using RunGroopWebApp.ViewModels;
 
 namespace RunGroopWebApp.Controllers
 {

@@ -1,7 +1,7 @@
 ﻿using RunGroopWebApp.Data.Enum;
 using RunGroopWebApp.Models;
 
-namespace RunGroopWebApp.ViewModel
+namespace RunGroopWebApp.ViewModels
 {
     public class CreateClubViewModel
     {

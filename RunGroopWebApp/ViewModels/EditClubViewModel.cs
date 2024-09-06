@@ -1,9 +1,9 @@
 ﻿using RunGroopWebApp.Data.Enum;
 using RunGroopWebApp.Models;
 
-namespace RunGroopWebApp.ViewModel
+namespace RunGroopWebApp.ViewModels
 {
-    public class EditRaceViewModel
+    public class EditClubViewModel
     {
         public int Id { get; set; }
         public string Title { get; set; }
@@ -12,6 +12,6 @@ namespace RunGroopWebApp.ViewModel
         public string? URL { get; set; }
         public int AddressId { get; set; }
         public Address Address { get; set; }
-        public RaceCategory RaceCategory { get; set; }
+        public ClubCategory ClubCategory { get; set; }
     }
 }
